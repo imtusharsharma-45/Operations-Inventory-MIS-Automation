@@ -126,11 +126,6 @@ and management insights.
 
 ![Operations & Inventory MIS Dashboard](Screenshot/Operation%20Inventory%20Dashboard.png)
 
-## 📁 Project File
-
-The complete automated Excel MIS workbook is available below:
-
-[Download Operations & Inventory MIS Dashboard](Operations_Inventory_MIS_Dashboard.xlsm)
 
 ## 📈 Business Insights
 
