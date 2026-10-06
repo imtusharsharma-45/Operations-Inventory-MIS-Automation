@@ -124,7 +124,7 @@ The dashboard provides a centralized view of operational performance,
 inventory availability, purchasing activity, regional performance,
 and management insights.
 
-![Operations & Inventory MIS Dashboard](Operation Inventory Dashboard.png)
+![Operations & Inventory MIS Dashboard](Screenshot/Operation%20Inventory%20Dashboard.png)
 
 ## 📁 Project File
 
